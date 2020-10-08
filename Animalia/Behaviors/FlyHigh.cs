@@ -1,3 +1,5 @@
+using Animalia.Contracts;
+
 namespace Animalia.Behaviors
 {
     public class FlyHigh : IFlyBehavior

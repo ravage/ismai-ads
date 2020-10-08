@@ -1,4 +1,4 @@
-namespace Animalia
+namespace Animalia.Contracts
 {
     public interface IWalkBehavior
     {

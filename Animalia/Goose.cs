@@ -1,5 +1,6 @@
 ﻿using System;
 using Animalia.Behaviors;
+using Animalia.Contracts;
 
 namespace Animalia
 {
